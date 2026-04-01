@@ -1,4 +1,4 @@
-# Seclsuo AI
+# Secluso AI
 
 Home of our custom trained models.
 
